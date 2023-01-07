@@ -1,0 +1,35 @@
+*{
+    background-color: lightpink;
+}
+h1 { /* selector de tipo */
+    color:midnightblue;
+    text-align: center;
+}
+h2 {
+    color:rgb(44, 9, 44);
+    font-family: 'Raleway', sans-serif;
+}
+/*selectores de clase. Seleccionala elementos de clase espeficica asignada*/
+.pasat {
+    background-color: rgb(99, 148, 99);
+} 
+.actividades {
+    background-color:rgb(168, 189, 162);
+ }
+table, td, th {
+    text-align: center;
+    border: 3px groove black;
+}
+
+.tablados { 
+
+    text-align: center;
+    border: 1px groove black;
+
+}
+
+.Lecturas{
+     text-align: center;
+     border: 8px groove green;
+
+}
